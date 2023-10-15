@@ -1,6 +1,4 @@
 //Name: Iman Nasir
-//Date: November 19th, 2021
-//Purpose: Grid Game
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
